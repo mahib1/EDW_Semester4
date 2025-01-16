@@ -16,13 +16,13 @@ Each assignment has its own folder that includes the following key files:
 ## Example Structure
 .
 - HexDisplay  
-    -- .gitignore
-    -- CustomLogic.kicad_sym
-    -- HexDisplay.kicad_pcb
-    -- HexDisplay.kicad_prl
-    -- HexDisplay.kicad_pro
-    -- HexDisplay.kicad_sch
-    -- sym-lib-table
+    - .gitignore
+    - CustomLogic.kicad_sym
+    - HexDisplay.kicad_pcb
+    - HexDisplay.kicad_prl
+    - HexDisplay.kicad_pro
+    - HexDisplay.kicad_sch
+    - sym-lib-table
 
 ## Setting Up the Project
 
