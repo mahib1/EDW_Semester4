@@ -14,7 +14,7 @@ Each assignment has its own folder that includes the following key files:
 - **sym-lib-table**: A file for managing the symbol libraries.
 
 ## Example Structure
-.
+- <root Directory>
 - HexDisplay  
     - .gitignore
     - CustomLogic.kicad_sym
