@@ -14,16 +14,19 @@ Each assignment has its own folder that includes the following key files:
 - **sym-lib-table**: A file for managing the symbol libraries.
 
 ## Example Structure
-- <root Directory>
-- HexDisplay  
-    - .gitignore
-    - CustomLogic.kicad_sym
-    - HexDisplay.kicad_pcb
-    - HexDisplay.kicad_prl
-    - HexDisplay.kicad_pro
-    - HexDisplay.kicad_sch
-    - sym-lib-table
-
+```
+.
+├── .git
+├── HexDisplay
+│   ├── .gitignore
+│   ├── CustomLogic.kicad_sym
+│   ├── HexDisplay.kicad_pcb
+│   ├── HexDisplay.kicad_prl
+│   ├── HexDisplay.kicad_pro
+│   ├── HexDisplay.kicad_sch
+│   └── sym-lib-table
+└── README.md
+```
 ## Setting Up the Project
 
 To get started with this project on your machine:
@@ -33,5 +36,5 @@ To get started with this project on your machine:
    git clone https://github.com/yourusername/edw-assignments.git
    ```
 
-2. Find the Repository in your system file Explorer
+2. Find the Repository in your system file Explorer.
 3. Open the project with KiCAD.
