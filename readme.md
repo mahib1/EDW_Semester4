@@ -24,7 +24,12 @@ Each assignment has its own folder that includes the following key files:
 │   ├── HexDisplay.kicad_prl
 │   ├── HexDisplay.kicad_pro
 │   ├── HexDisplay.kicad_sch
-│   └── sym-lib-table
+│   ├── sym-lib-table
+│   └── PDF
+│       ├── .gitignore
+│       ├── img
+│       ├── assignment1.pdf
+│       └── assignment1.tex
 └── README.md
 ```
 ## Setting Up the Project
