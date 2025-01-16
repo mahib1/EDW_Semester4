@@ -14,7 +14,17 @@ Each assignment has its own folder that includes the following key files:
 - **sym-lib-table**: A file for managing the symbol libraries.
 
 ## Example Structure
-├── .git ├── HexDisplay │ ├── .gitignore │ ├── CustomLogic.kicad_sym │ ├── HexDisplay.kicad_pcb │ ├── HexDisplay.kicad_prl │ ├── HexDisplay.kicad_pro │ ├── HexDisplay.kicad_sch │ └── sym-lib-table └── README.md
+.
+├── .git
+├── HexDisplay
+│   ├── .gitignore
+│   ├── CustomLogic.kicad_sym
+│   ├── HexDisplay.kicad_pcb
+│   ├── HexDisplay.kicad_prl
+│   ├── HexDisplay.kicad_pro
+│   ├── HexDisplay.kicad_sch
+│   └── sym-lib-table
+└── README.md
 
 ## Setting Up the Project
 
