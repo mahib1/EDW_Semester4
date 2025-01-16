@@ -42,4 +42,4 @@ To get started with this project on your machine:
    ```
 
 2. Find the Repository in your system file Explorer.
-3. Open the project with KiCAD.
+3. Open the project with KiCAD, or navigate to the PDF folder to access the tex file and the pdf file of the Assignment.
