@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Generator")(type "KiCad")(uri "${KIPRJMOD}/Extras.kicad_sym")(options "")(descr ""))
+  (lib (name "PLL")(type "KiCad")(uri "${KIPRJMOD}/ul_LM565CN/KiCADv6/2025-01-29_17-44-32.kicad_sym")(options "")(descr ""))
+  (lib (name "Inverter")(type "KiCad")(uri "${KIPRJMOD}/ul_CD4007UBE/KiCADv6/2025-01-29_17-49-54.kicad_sym")(options "")(descr ""))
+  (lib (name "TA2020")(type "KiCad")(uri "${KIPRJMOD}/TA2020.lib")(options "")(descr ""))
+  (lib (name "TA")(type "KiCad")(uri "${KIPRJMOD}/TA.kicad_sym")(options "")(descr ""))
+)
